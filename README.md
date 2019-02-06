@@ -23,7 +23,7 @@ the ramifications of this change?
 
 ## Software Requirements:
 1. Java 1.8
-2. Apache Ant
+2. Apache Ant or any JAVA IDE to build the program.
 ## Steps to run:
 1. Build the program using ant: "ant build".
 2. Run the client and server in different terminals.
