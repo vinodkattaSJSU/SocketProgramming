@@ -1,10 +1,10 @@
-# Lab 001 - Basic socket construction and usage
+# Basic socket construction and usage
 
-This lab is to help you understand the workings of basic 
-communication. The concepts presented in this lab hold
+This project is to help understand the workings of basic 
+communication. The concepts presented in this project hold
 true for all multi-process exchange of data over sockets.
 
-## For this lab, you should:
+## Goals
 
  * Understand the code organization and the relationship of
 the Socket class in encoding and decoding messages.
