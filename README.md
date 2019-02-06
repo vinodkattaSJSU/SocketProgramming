@@ -21,11 +21,10 @@ receive responses from the server.
 data. The encoding classes have been provided. What are
 the ramifications of this change?
 
-## Steps to run
-Software Requirements:
+## Software Requirements:
 1. Java 1.8
 2. Apache Ant
-Steps:
+## Steps to run:
 1. Build the program using ant: "ant build".
 2. Run the client and server in different terminals.
     client run command: "java -cp .;./classes gash.app.client.BasicClientApp"
